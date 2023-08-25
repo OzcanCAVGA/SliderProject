@@ -1,6 +1,6 @@
 
 # Slider Projesi
-![Untitled](https://github.com/OzcanCAVGA/SliderProject/assets/81030695/8b081570-1a0f-4312-9b9a-a1bd49377f37)
+![Untitled](https://github.com/OzcanCAVGA/SliderProject/assets/81030695/8b081570-1a0f-4312-9b9a-a1bd49377f37.png)
 
 
 Bu proje, HTML, CSS ve JavaScript kullanarak basit bir görüntü kaydırma (slider) özelliği oluşturmayı amaçlamaktadır. Slider, web sitelerinde farklı içerikleri (resimler, metinler, vb.) yatayda kaydırmak için kullanılan bir araçtır.
